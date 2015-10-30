@@ -1,9 +1,6 @@
 # Homework1
 
-###Let the calculator do the talking.
-+ Normal basic math functions
-+ Speech available in 38 languages 
-+ Day vs Night mode
+
 
 
 
