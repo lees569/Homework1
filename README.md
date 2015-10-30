@@ -1,7 +1,7 @@
 # Homework1
 
 
-![icon](https://youtu.be/zQb9l3JySmQ)
+
 
 
 ## Screenshots
